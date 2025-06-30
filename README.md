@@ -27,8 +27,10 @@ A responsive **Weather Application** built using the **OpenWeatherMap API** that
 ---
 
 ## 🖼️ Preview
+![image](https://github.com/user-attachments/assets/56ab2cb1-080f-4624-bb81-de6d4c9af474)
 
-![App Preview](."C:\Users\nadee\Downloads\weather-app-using-openweathermap-api-main\weather-app-using-openweathermap-api-main\screenshots\1.png")
+![App Preview]
+![image](https://github.com/user-attachments/assets/def74e50-a09b-489a-bf8e-047b55082803)
 
 > *Make sure the image is located in `screenshots/1.png` relative to your repo root.*
 
